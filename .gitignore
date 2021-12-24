@@ -3,3 +3,5 @@
 *.swo
 .idea/
 target/
+Cargo.lock
+
